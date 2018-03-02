@@ -22,6 +22,7 @@
 /* Settings for HTML tags */
 body {  
   margin: 0;
+  padding-top: 70px;
 
   color: #777777;
 
